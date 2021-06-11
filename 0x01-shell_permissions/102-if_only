@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown --reference=betty hello
+chown --from=guillaume  vagrant:hello
