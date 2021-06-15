@@ -1,0 +1,2 @@
+#!/bin/bash
+cat /holberton-system_engineering-devops/iacta | head -3 | tail -1
